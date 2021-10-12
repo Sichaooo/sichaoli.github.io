@@ -1,5 +1,6 @@
 # Sichao Li
 
+_lisichao58@gmail.com_
 
 ## EDUCATION
 
