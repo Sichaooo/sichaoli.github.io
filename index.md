@@ -1,6 +1,17 @@
-# Sichao Li
-
-_lisichao58@gmail.com_
+<table border="0">
+  <tr>
+    <td width="65%">
+      <h1> Sichao Li </h1>
+      <p><b> MPS Applied Statistics </b></p>
+      <p><b> Cornell University </b></p>
+      <p><b> lisichao58@gmail.com </b></p>
+    </td>
+    <td width="35%">
+      <img src="lsc.jpg" width="100%">
+    </td>
+  </tr>
+</table>      
+        
 
 ## EDUCATION
 
